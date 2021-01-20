@@ -19,4 +19,7 @@ public class FruitsConstants {
     public static final Integer FRUITS_COUNT_78 = 78;
     public static final Integer FRUITS_COUNT_100 = 100;
 
+
+
+
 }
