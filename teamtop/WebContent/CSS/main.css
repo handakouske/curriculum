@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 .header{
     display: flex;
     margin: 0 auto;
@@ -123,20 +124,25 @@
 .logoimg {
 	width: 30%;
     padding-left: 100px;
+
 }
 
-.headerright{
-
+.header-right{
 
 }
 
 .search_container{
     box-sizing: border-box;
     width: 310px;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 50px;
+    float: left;
   }
 
+.logos {
+    margin:30px;
+    display: block;
+}
   .search_container input[type="text"]{
     border: 1px solid #999;
     padding: 3px 5px;
@@ -169,12 +175,13 @@
     width: 12%;
     float: right;
     bottom: 200px;
+    margin: 40px 20px 0px 0px;
 }
 
 .cartimg{
     width: 10%;
     float: right;
-
+    margin-top: 40px;
 }
 
 .top{
@@ -183,10 +190,11 @@
     margin-right: auto
 }
 
-。footer{
+.footer{
     width: 1300px;
     height: 190px;
-    position: relative;
+    position: absolute;
+    bottom: 0;
 }
 
 .footerlist{
@@ -196,9 +204,6 @@
     text-align: center;
     position: absolute;
     bottom: 30px;
-    text-decoration: none;
-
-
 }
 
 a   { text-decoration:none;
