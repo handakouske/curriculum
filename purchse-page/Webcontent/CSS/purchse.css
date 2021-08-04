@@ -224,6 +224,10 @@ ul {
     font-size: 35px;
     margin-left: 650px;
 }
+
+.transfer-button{
+	margin-left: 880px;
+}
 .footer{
     width: 1300px;
     height: 190px;

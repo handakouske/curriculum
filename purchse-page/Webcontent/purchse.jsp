@@ -55,6 +55,7 @@
         </div>
     </div>
     <div class="total-price">total price:</div>
+    <div class="transfer-button"><input type="button" value="送信"></div>
     <footer class="footer">
         <ul class=footerlist>
             <li>会社概要</li>
